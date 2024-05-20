@@ -34,9 +34,6 @@ all = [
 all-synthetic = [
 ]
 
-all-experiment-runners = [
-]
-
 all-theorists = [
   "autora[theorist-darts]",
   "autora[theorist-bms]",
