@@ -46,6 +46,10 @@ theorist-bsr = [
   "autora-theorist-bsr",
 ]
 
+all-synthetic = [
+  "autora-synthetic"
+]
+
 all-experimentalists = [
   "autora[experimentalist-inequality]",
   "autora[experimentalist-novelty]",
@@ -80,8 +84,6 @@ experimentalist-falsification =[
 experimentalist-mixture =[
   "mixture-experimentalist==1.0.0a4"
 ]
-
-
 
 all-experiment-runners = [
   "autora[experiment-runner-firebase-prolific]",
