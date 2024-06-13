@@ -47,7 +47,11 @@ theorist-bsr = [
 ]
 
 all-synthetic = [
-  "autora-synthetic"
+  "autora[synthetic]"
+]
+
+synthetic = [
+  "autora-synthetic",
 ]
 
 all-experimentalists = [
